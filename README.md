@@ -8,7 +8,7 @@ pip install asyncio
 ```
 fill config.py file
 
-If you want to add new presets, redact contexts.txt.
+If you want to add new presets, redact contexts.py
 
 Bot will automatically create user folders and keep their chat contexts there
 
